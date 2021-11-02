@@ -40,7 +40,7 @@ This game is designed to evoke the feeling of TCG games like “Magic The Gather
 - 'Double', two matching energy tokens.
 - 'Triple', three matching energy tokens.
 - 'Low', energy token/s with 1, 2 or 3.
-- 'High' energy token/s with 4, 5, or 6.
+- 'High', energy token/s with 4, 5, or 6.
 
 **Other Tokens:** Tokens are represented by dice. A token's archetype is indicated by its die colour and the die's value corresponds to the ability used to create them (1st, 2nd, 3rd).
 
