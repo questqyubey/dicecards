@@ -1,0 +1,253 @@
+Index,Cost Rank,Style,Summon Rank,Rarity,Text,Tags 1,Tags 2,Tags 3,Tags 4,Tags 5,Tags
+1,Other,Build,Regular,Common,Spend 2 shield power. Set one 1 power typeless unit.,sacrifice-shield,set-unit,,,,"sacrifice-shield,set-unit"
+2,Other,Build,Regular,Common,Banish 2 dice from your grave. Set one 1 power typeless unit.,sacrifice-grave,set-unit,,,,"sacrifice-grave,set-unit"
+3,Single,Build,Regular,Common,Spend a single. Draw 3 dice and discard 2.,draw,discard,,,,"draw,discard"
+4,Single,Build,Regular,Common,Spend a single. Scry 3 dice.,scry,,,,,scry
+5,Single,Build,Regular,Common,Spend a single. Re-roll up to 3 dice from your hand.,reroll,,,,,reroll
+6,Single,Build,Regular,Common,Spend a single. Look at target opponent's hand.,view,,,,,view
+7,Single,Build,Regular,Common,Spend a single. Set one 2 power typeless unit.,set-unit,,,,,set-unit
+8,Single,Build,Regular,Common,Spend a single. Set one 1 power unit with this type.,set-unit,,,,,set-unit
+9,Single,Build,Regular,Common,Spend a single. Target unit gains +1 power.,power-gain,,,,,power-gain
+10,Single,Build,Regular,Common,"Spend a single, sacrifice a unit you control. Ths unit gets +X where X is the sacrifice's power.",sacrifice-unit,power-gain,,,,"sacrifice-unit,power-gain"
+11,Double,Build,Regular,Common,Spend a double. Target unit gains +2 power.,power-gain,,,,,power-gain
+12,Double,Build,Regular,Common,"Spend a double. Target unit gains +2 power, and has Haste until end of turn.",power-gain,haste,,,,"power-gain,haste"
+13,Single,Build,Regular,Common,"Spend a single, target a unit you control. Target unit changes to this type.",type-change,,,,,type-change
+14,Other,Build,Regular,Common,Spend 3 shield power. You may charge an additional time.,sacrifice-shield,add-charge,,,,"sacrifice-shield,add-charge"
+15,Single,Build,Regular,Common,"Spend a single, target an equip token. Target token becomes a 1 power unit with the same type.",set-unit,,,,,set-unit
+16,Single,Build,Regular,Common,"Spend a single, target an equip token, target a unit you control. Target unit gets a copy of that token.",set-equip-token,copy,,,,"set-equip-token,copy"
+17,Other,Build,Regular,Common,Sacrifice a unit you control. This unit gets +2 power.,sacrifice-unit,power-gain,,,,"sacrifice-unit,power-gain"
+18,Other,Build,Regular,Common,Spend 3 shield power. Set one 2 power typeless unit.,sacrifice-shield,set-unit,,,,"sacrifice-shield,set-unit"
+19,Other,Build,Regular,Common,Banish 3 dice from your grave. Set one 2 power typeless unit.,sacrifice-grave,set-unit,,,,"sacrifice-grave,set-unit"
+20,Other,Build,Regular,Common,Banish 3 dice from your grave. Set two 1 power typeless units.,sacrifice-grave,set-unit,,,,"sacrifice-grave,set-unit"
+21,Other,Build,Regular,Common,Banish 3 dice from your grave. This unit gets +2 power.,sacrifice-grave,power-gain,,,,"sacrifice-grave,power-gain"
+22,Trigger,Build,Regular,Uncommon,"When this unit gains power, you may sacrifice this unit. Set two units with the same type and half the power of the sacrificed unit.",on-power-gain,sacrifice-unit,set-unit,,,"on-power-gain,sacrifice-unit,set-unit"
+23,Single,Build,Regular,Uncommon,"Spend a single. Set an equip token with ""When this unit takes damage, it gets +1 power.""",set-equip-token,on-receive-damage,power-gain,,,"set-equip-token,on-receive-damage,power-gain"
+24,Single,Build,Regular,Common,"Spend a single. Set an equip token with ""This unit gets +3 power.""",set-equip-token,power-gain,,,,"set-equip-token,power-gain"
+25,Single,Build,Regular,Uncommon,"Spend a single, sacrifice an equip token on this unit. Deal 3 damage to a target unit.",sacrifice-equip,direct-damage,copy,,,"sacrifice-equip,direct-damage,copy"
+26,Single,Build,Regular,Common,"Spend a single, sacrifice this unit. A target unit with the sacrifice's type gets +X where X is the sacrifice's power.",sacrifice-unit,power-gain,,,,"sacrifice-unit,power-gain"
+27,Single,Build,Regular,Common,"Spend a single. Set an equip token with ""This unit gets +1 power for each other unit with this type you control.""",set-equip-token,power-gain,,,,"set-equip-token,power-gain"
+28,Single,Build,Regular,Common,"Spend a single. Set an equip token with ""Before this unit battles, unit drains 1 power from the target of the battle.""",set-equip-token,drain,,,,"set-equip-token,drain"
+29,Single,Build,Regular,Rare,"Spend a single, spend 2 shield power. Set an equip token with ""This unit gets +2 power and haste.""",sacrifice-shield,set-equip-token,haste,power-gain,,"sacrifice-shield,set-equip-token,haste,power-gain"
+30,Trigger,Build,Regular,Uncommon,"When summoning, spend a single, sacrifice this unit. Add the power of the sacrifice to the summoned unit.",on-set-unit,sacrifice-unit,power-gain,,,"on-set-unit,sacrifice-unit,power-gain"
+31,Single,Build,Regular,Common,"Spend a single, spend 3 shield power, target a unit you control. Target unit changes to this type and gets +2 power.",type-change,power-gain,,,,"type-change,power-gain"
+32,Double,Build,Regular,Common,Spend a double. Draw 2 dice.,draw,,,,,draw
+33,Double,Build,Regular,Common,Spend a double. Set one 2 power unit with this type.,set-unit,,,,,set-unit
+34,Double,Build,Regular,Common,Spend a double. Set one 3 power typeless unit.,set-unit,,,,,set-unit
+35,Double,Build,Regular,Common,Spend a double. Set two 1 power typeless units.,set-unit,,,,,set-unit
+36,Triple,Build,Regular,Common,Spend a triple. Target unit gets +5 power.,power-gain,,,,,power-gain
+37,Single,Build,Regular,Common,Spend a single. Target unit gets -1 power.,power-loss,,,,,power-loss
+38,Double,Build,Regular,Common,"Spend a double. Target unit gains +2 power, and has Reinforcing attacks until end of turn.",power-gain,reinforce,,,,"power-gain,reinforce"
+39,Double,Build,Regular,Common,"Spend a double, target a unit. Target unit changes to this type and gets +2 power.",type-change,power-gain,,,,"type-change,power-gain"
+40,Other,Build,Regular,Common,Spend 4 shield power. Set one 3 power typeless unit.,sacrifice-shield,set-unit,,,,"sacrifice-shield,set-unit"
+41,Other,Build,Regular,Common,Spend 4 shield power. You may summon an additional time this turn.,sacrifice-shield,add-summon,,,,"sacrifice-shield,add-summon"
+42,Other,Build,Regular,Common,Banish 4 dice from your grave. Set one 3 power typeless unit.,sacrifice-grave,set-unit,,,,"sacrifice-grave,set-unit"
+43,Other,Build,Regular,Common,Banish 4 dice from your grave. Set three 1 power typeless units.,sacrifice-grave,set-unit,,,,"sacrifice-grave,set-unit"
+44,Other,Build,Regular,Common,Banish 4 dice from your grave. You may summon an additional time this turn.,sacrifice-grave,add-summon,,,,"sacrifice-grave,add-summon"
+45,Other,Build,Regular,Common,Banish 4 dice from your grave. This unit gets +3 power.,sacrifice-grave,power-gain,,,,"sacrifice-grave,power-gain"
+46,Other,Build,Ritual,Common,"Ritual, discard 1. Summon this unit at full die value.",discard,power-gain,,,,"discard,power-gain"
+47,Other,Build,Ritual,Uncommon,"Ritual, discard 1. When a unit with this type enters the field, this unit gets +1 power.",discard,on-type-enter,power-gain,,,"discard,on-type-enter,power-gain"
+48,Other,Build,Ritual,Uncommon,"Ritual, discard 1. When a unit with this type enters the field, draw a die.",discard,on-type-enter,draw,,,"discard,on-type-enter,draw"
+49,Other,Build,Ritual,Uncommon,"Ritual, discard 1. When a unit with this type enters the field, set an additional typeless unit with 1 power.",discard,on-type-enter,set-unit,,,"discard,on-type-enter,set-unit"
+50,Other,Build,Ritual,Uncommon,"Ritual, discard 1. When you activate an ability, this unit gets +1 power.",discard,on-ability-start,power-gain,,,"discard,on-ability-start,power-gain"
+51,Other,Build,Ritual,Uncommon,"Ritual, discard 1. When you gain shield power, this unit gets +1 power.",discard,on-shield-gain,power-gain,,,"discard,on-shield-gain,power-gain"
+52,Other,Build,Ritual,Uncommon,"Ritual, discard 1. When this unit is destroyed, set 1 energy token with a random value.",discard,on-unit-destroyed,set-energy-token,,,"discard,on-unit-destroyed,set-energy-token"
+53,Other,Build,Ritual,Uncommon,"Ritual, discard 1. When this unit is destroyed, you may charge an additional time on your next turn.",discard,on-unit-destroyed,add-charge,,,"discard,on-unit-destroyed,add-charge"
+54,Double,Build,Regular,Common,"Spend a double, target a unit you control. Target unit changes to this type and gets +3 power.",type-change,power-gain,,,,"type-change,power-gain"
+55,Double,Build,Regular,Common,"Spend a double, sacrifice an equip token. Set a 3 power unit with the same type as the sacrifice.",sacrifice-equip,set-unit,,,,"sacrifice-equip,set-unit"
+56,Triple,Build,Regular,Common,Spend a triple. Set one 4 power unit with this type.,set-unit,,,,,set-unit
+57,Triple,Build,Regular,Common,Spend a triple. Set one 6 power typeless unit.,set-unit,,,,,set-unit
+58,Triple,Build,Regular,Common,Spend a triple. Set two 2 power typeless units.,set-unit,,,,,set-unit
+59,Triple,Build,Regular,Common,Spend a triple. Set three 1 power typeless units.,set-unit,,,,,set-unit
+60,Double,Build,Regular,Common,Spend a double. Target unit gets -2 power.,power-loss,,,,,power-loss
+61,Triple,Build,Regular,Common,Spend a triple. Target unit gets -5 power.,power-loss,,,,,power-loss
+62,Double,Build,Regular,Common,"Spend a double. Target unit gains +2 power, and has Draining attacks until end of turn.",power-gain,drain,,,,"power-gain,drain"
+63,Triple,Build,Regular,Common,"Spend a triple, target a unit. Target unit changes to this type and gets +2 power.",type-change,power-gain,,,,"type-change,power-gain"
+64,Triple,Build,Regular,Common,"Spend a triple, target a unit you control. Target unit changes to this type and gets +3 power.",type-change,power-gain,,,,"type-change,power-gain"
+65,Triple,Build,Regular,Common,"Spend a triple. Set a field token with ""You may summon an additional time per turn.""",set-field-token,add-summon,,,,"set-field-token,add-summon"
+66,Triple,Build,Regular,Common,"Spend a triple. Set a field token with ""You may charge an additional time per turn.""",set-field-token,add-charge,,,,"set-field-token,add-charge"
+67,Triple,Build,Regular,Common,"Spend a triple. Set a field token with ""You draw 4 dice in your draw phase.""",set-field-token,draw,,,,"set-field-token,draw"
+68,Triple,Build,Regular,Common,"Spend a triple. Set a field token with ""All units on the field are this type.""",set-field-token,type-change,,,,"set-field-token,type-change"
+69,Single,Crush,Regular,Common,Spend a single. Destroy a target equip token.,destroy-equip-token,,,,,destroy-equip-token
+70,Single,Crush,Regular,Common,Spend a single. Destroy a target unit with 2 or less power.,destroy-unit,,,,,destroy-unit
+71,Single,Crush,Regular,Common,"Spend a single, target a unit. Set an equip token with ""This unit is considered removed from the field. It cannot target or be targeted.""",set-equip-token,remove-unit,,,,"set-equip-token,remove-unit"
+72,Single,Crush,Regular,Common,Spend a single. Destroy the unit with the lowest power on the field.,destroy-unit,,,,,destroy-unit
+73,Single,Crush,Regular,Common,Spend a single. Sacrifice a target unit you control with less power than this unit. Add target's power to this unit.,sacrifice-unit,power-gain,,,,"sacrifice-unit,power-gain"
+74,Single,Crush,Regular,Common,"Spend a single. Set an equip token with ""This unit has Haste,"" on a target unit.",set-equip-token,haste,,,,"set-equip-token,haste"
+75,Single,Crush,Regular,Common,"Spend a single. Set an equip token with ""This unit has Piercing,"" on a target unit.",set-equip-token,piercing,,,,"set-equip-token,piercing"
+76,Single,Crush,Regular,Common,"Spend a single, target a token. Remove token from field and set one 2 power typeless unit under the owner's control.",remove,set-unit,,,,"remove,set-unit"
+77,Single,Crush,Regular,Common,"Spend a single, spend 2 shield power. This unit has unblockable until end of turn.",sacrifice-shield,unblockable,,,,"sacrifice-shield,unblockable"
+78,Other,Crush,Regular,Common,Banish 3 dice from your grave. Deal 2 damage to target.,sacrifice-grave,direct-damage,,,,"sacrifice-grave,direct-damage"
+79,Double,Crush,Regular,Common,Spend a double. Destroy a target unit.,destroy-unit,,,,,destroy-unit
+80,Double,Crush,Regular,Common,Spend a double. Destroy a target token.,destroy,,,,,destroy
+81,Double,Crush,Regular,Common,Spend a double. Destroy all typeless units.,destroy-unit,,,,,destroy-unit
+82,Double,Crush,Regular,Common,Spend a double. Destroy all units with 2 or less power.,destroy-unit,,,,,destroy-unit
+83,Single,Crush,Regular,Common,Spend a single. Deal 2 damage to a target unit or shield.,direct-damage,,,,,direct-damage
+84,Double,Crush,Regular,Common,Spend a double. Target player must discard 2 dice from their hand.,discard,,,,,discard
+85,Single,Crush,Regular,Common,Spend a single. This unit battles a target unit you don't control.,force-battle,,,,,force-battle
+86,Double,Crush,Regular,Common,Spend a double. This unit has double-strike until end of turn.,double-strike,,,,,double-strike
+87,Other,Crush,Ritual,Uncommon,"Ritual, discard 1. After this unit battles, it gets +1 power.",discard,on-battle,power-gain,,,"discard,on-battle,power-gain"
+88,Other,Crush,Ritual,Uncommon,"Ritual, discard 1. After this unit destroys another unit in battle, it gets +2 power.",discard,on-unit-destroyed,power-gain,,,"discard,on-unit-destroyed,power-gain"
+89,Other,Crush,Ritual,Uncommon,"Ritual, discard 1. When a unit with greater power than this unit enters the field, this unit gets +1 power.",discard,on-set-unit,power-gain,,,"discard,on-set-unit,power-gain"
+90,Other,Crush,Ritual,Uncommon,"Ritual, discard 1. When this unit destroys a unit by battle, set 1 typeless unit with power equal to the destroyed unit.",discard,on-unit-destroyed,set-unit,,,"discard,on-unit-destroyed,set-unit"
+91,Trigger,Crush,Regular,Common,"When this unit's power is 4 or more, it has double-strike.",on-power-condition,double-strike,,,,"on-power-condition,double-strike"
+92,Double,Crush,Regular,Common,"Spend a double, target a unit you don't control. Gain control of target unit until end of turn.",control-change,,,,,control-change
+93,Double,Crush,Regular,Common,"Spend a double. This unit captures a target unit. At the start of your turn, this unit drains 1 power from target unit.",capture,drain,,,,"capture,drain"
+94,Double,Crush,Regular,Common,"Spend a double. This unit is captured by a target unit. At the start of your turn, this unit drains 1 power from target unit.",capture,drain,,,,"capture,drain"
+95,Double,Crush,Regular,Uncommon,"Spend a double. This unit captures a target unit. At the start of your turn, you may reduce target unit's power by 1 and set one 1 power typeless unit.",capture,power-loss,set-unit,,,"capture,power-loss,set-unit"
+96,Double,Crush,Regular,Uncommon,"Spend a double. This unit is captured by a target unit. At the start of your turn, you may reduce target unit's power by 1 and set one 1 power typeless unit.",capture,power-loss,set-unit,,,"capture,power-loss,set-unit"
+97,Double,Crush,Regular,Common,Spend a double. This unit is captured by a target unit. You may gain control of target unit during your battle phase.,capture,control-change,,,,"capture,control-change"
+98,Double,Crush,Regular,Common,Spend a double. This unit captures a target unit. You may activate abilities with the target unit.,capture,copy,,,,"capture,copy"
+99,Double,Crush,Regular,Common,Spend a double. This unit is captured by a target unit. You may activate abilities of the target unit.,capture,copy,,,,"capture,copy"
+100,Double,Crush,Regular,Common,"Spend a double, spend 2 shield power. Deal 4 piercing damage to target unit.",sacrifice-shield,piercing,,,,"sacrifice-shield,piercing"
+101,Triple,Crush,Regular,Common,Spend a triple. Destroy all units on the field.,destroy-unit,,,,,destroy-unit
+102,Triple,Crush,Regular,Common,"Spend a triple. Each player who controls a unit with 4 or more power draws a die. Then, destroy all units.",draw,destroy-unit,,,,"draw,destroy-unit"
+103,Triple,Crush,Regular,Uncommon,"Spend a triple. Set a field token with ""When a unit with this type enters the field, deal 2 damage to a target.""",set-field-token,on-type-enter,direct-damage,,,"set-field-token,on-type-enter,direct-damage"
+104,Single,Stall,Regular,Common,Spend a single. Gain 2 shield power.,shield-gain,,,,,shield-gain
+105,Single,Stall,Regular,Common,Spend a single. Gain shield power equal to the number of units you control.,shield-gain,,,,,shield-gain
+106,Single,Stall,Regular,Common,Spend a single. Target unit cannot attack until end of turn.,cannot-battle,,,,,cannot-battle
+107,Single,Stall,Regular,Common,Spend a single. Target unit is typeless until end of turn.,type-change,,,,,type-change
+108,Single,Stall,Regular,Common,Spend a single. This unit captures a target unit.,capture,,,,,capture
+109,Single,Stall,Regular,Common,Spend a single. This unit has deadly until end of turn.,deadly,,,,,deadly
+110,Single,Stall,Regular,Common,"Spend a single, target a unit with 3 or less power. Return it to the owner's hand.",return-unit,on-power-condition,,,,"return-unit,on-power-condition"
+111,Single,Stall,Regular,Common,"Spend a single, target a unit. Set an equip token with ""This unit can't battle until end of turn.""",set-equip-token,cannot-battle,,,,"set-equip-token,cannot-battle"
+112,Single,Stall,Regular,Common,"Spend a single, target a unit. Set an equip token with ""This unit can't be targeted by abilities.""",set-equip-token,cannot-be-targeted,,,,"set-equip-token,cannot-be-targeted"
+113,Single,Stall,Regular,Common,Spend a single. This unit is removed from the field until end of turn.,remove-unit,,,,,remove-unit
+114,Other,Stall,Regular,Uncommon,Spend 2 shield power. Look at target player's hand and select 1 die from it to discard.,sacrifice-shield,view,discard,,,"sacrifice-shield,view,discard"
+115,Trigger,Stall,Regular,Common,"When any unit battles, you may spend a single. Negate the battle.",on-battle,negate-battle,,,,"on-battle,negate-battle"
+116,Trigger,Stall,Regular,Common,"When an ability is activated, you may spend a single. Negate the ability's effect.",on-ability-start,negate-ability,,,,"on-ability-start,negate-ability"
+117,Trigger,Stall,Regular,Common,"When a unit is targeted for battle, you may spend a single. Select a new target for the battle.",on-targeted,retarget,,,,"on-targeted,retarget"
+118,Trigger,Stall,Regular,Common,"After an ability is resolved, you may spend a single and activate that ability (including cost).",on-ability-end,copy,,,,"on-ability-end,copy"
+119,Trigger,Stall,Regular,Uncommon,"When this unit is damaged, you may spend 2 shield power and negate the damage.",on-receive-damage,sacrifice-shield,negate-damage,,,"on-receive-damage,sacrifice-shield,negate-damage"
+120,Trigger,Stall,Regular,Uncommon,"When this unit is damaged, banish 3 dice from your grave and negate the damage.",on-receive-damage,sacrifice-grave,negate-damage,,,"on-receive-damage,sacrifice-grave,negate-damage"
+121,Single,Stall,Regular,Uncommon,"Spend a single, discard a die. This unit must have 2 or more power. All units with power equal to a multiple of this unit's power cannot battle until end of turn.",discard,cannot-battle,on-power-condition,,,"discard,cannot-battle,on-power-condition"
+122,Single,Stall,Regular,Rare,"Spend a single, target a unit. Set an equip token with ""When this unit is damaged, destroy this token and negate the damage.""",set-equip-token,on-receive-damage,destroy-equip-token,negate-damage,,"set-equip-token,on-receive-damage,destroy-equip-token,negate-damage"
+123,Double,Stall,Regular,Common,Spend a double. Look at target player's hand and select 1 die from it to discard.,view,discard,,,,"view,discard"
+124,Double,Stall,Regular,Common,"Spend a double, target a unit you don't control. Return it to the unit's owner.",return-unit,,,,,return-unit
+125,Double,Stall,Regular,Common,"Spend a double, target a unit. Set an equip token with ""This unit can't be destroyed by battle.""",set-equip-token,cannot-be-destroyed,,,,"set-equip-token,cannot-be-destroyed"
+126,Trigger,Stall,Regular,Uncommon,"Instant. When a unit is targeted by an ability, you may spend a double. Select a new target for the ability.",on-targeted,retarget,instant,,,"on-targeted,retarget,instant"
+127,Other,Stall,Ritual,Uncommon,"Ritual, discard 1. When this unit is destroyed, set one 2 power typeless unit.",discard,on-unit-destroyed,set-unit,,,"discard,on-unit-destroyed,set-unit"
+128,Other,Stall,Ritual,Uncommon,"Ritual, discard 1. When this unit is destroyed, set two 1 power typeless units.",discard,on-unit-destroyed,set-unit,,,"discard,on-unit-destroyed,set-unit"
+129,Other,Stall,Ritual,Uncommon,"Ritual, discard 1. When this unit is destroyed, set one 1 power unit with this type.",discard,on-unit-destroyed,set-unit,,,"discard,on-unit-destroyed,set-unit"
+130,Other,Stall,Ritual,Uncommon,"Ritual, discard 1. When this unit enters the field, gain 2 shield power.",discard,on-set-unit,shield-gain,,,"discard,on-set-unit,shield-gain"
+131,Other,Stall,Ritual,Common,"Ritual, discard 1. This unit has reinforce.",discard,reinforce,,,,"discard,reinforce"
+132,Other,Stall,Ritual,Common,"Ritual, discard 1. This unit cannot be specifically targeted by abilities.",discard,cannot-be-targeted,,,,"discard,cannot-be-targeted"
+133,Other,Stall,Ritual,Common,"Ritual, discard 1. All units with the same power as this unit cannot battle.",discard,cannot-battle,,,,"discard,cannot-battle"
+134,Other,Stall,Regular,Common,Spend a double. Target player must discard their hand.,discard,,,,,discard
+135,Triple,Stall,Regular,Common,"Spend a triple. Return all units to their owners, up to their hand limit.",return-unit,,,,,return-unit
+136,Triple,Stall,Regular,Common,"Spend a triple. Set a field token with ""Units above 3 power cannot be set on the field.""",set-field-token,cannot-set-unit,,,,"set-field-token,cannot-set-unit"
+137,Triple,Stall,Regular,Common,"Spend a triple. Set a field token with ""Units below 2 power cannot be set on the field.""",set-field-token,cannot-set-unit,,,,"set-field-token,cannot-set-unit"
+138,Triple,Stall,Regular,Common,"Spend a triple. Set a field token with ""Units with this type cannot be targeted for battle or by abilities.""",set-field-token,cannot-be-targeted,,,,"set-field-token,cannot-be-targeted"
+139,Triple,Stall,Regular,Uncommon,"Spend a triple. Set a field token with ""To declare battles during the battle phase, players must declare a Leader unit. This unit cannot battle and only units with power equal to or lower than it can battle until end of turn, except to defend.""",set-field-token,cannot-battle,on-power-condition,,,"set-field-token,cannot-battle,on-power-condition"
+140,Triple,Stall,Regular,Uncommon,"Spend a triple. Set a field token with ""When a player charges, they target a unit they control. It has paralyzed until end of turn.""",set-field-token,cannot-charge,paralyzed,,,"set-field-token,cannot-charge,paralyzed"
+141,Trigger,Build,Regular,Rare,"If this unit would battle a shield, discard 1. Negate the battle, target an energy token and gain control of it.",on-battle,discard,negate-battle,control-change,,"on-battle,discard,negate-battle,control-change"
+142,Double,Build,Regular,Uncommon,"Spend a double, target a captive of a unit you control. Set one unit with power and type equal to the captive.",target-captive,set-unit,copy,,,"target-captive,set-unit,copy"
+143,Double,Build,Regular,Uncommon,"Spend a double, target a captive of a unit you control. Set X 1 power typless units where X is the number of units you control. Sacrifice these units at the end of the turn.",target-captive,set-unit,sacrifice-unit,,,"target-captive,set-unit,sacrifice-unit"
+144,Other,Stall,Relic,Common,Relic summon. Equip tokens with this type have indestructible.,indestructible,,,,,indestructible
+145,Other,Build,Ritual,Common,"If you would deal 7 or more damage this turn, you may instant summon this unit.",on-deal-damage,set-unit,,,,"on-deal-damage,set-unit"
+146,Other,Crush,Relic,Uncommon,"Relic summon. When this relic's unit battles, you may deal 5 damage divided among any number of targets. This relic's unit is destroyed after the battle phase.",on-battle,direct-damage,sacrifice-unit,,,"on-battle,direct-damage,sacrifice-unit"
+147,Other,Stall,Realm,Common,Realm summon. Field tokens with this type are Indestructible.,indestructible,,,,,indestructible
+148,Other,Stall,Realm,Uncommon,Realm summon. Units destroyed during the battle phase return to the field after the battle phase ends with their original power.,on-battle,set-unit,power-set,,,"on-battle,set-unit,power-set"
+149,Other,Crush,Ritual,Uncommon,"Ritual, discard 1. When this unit damages an enemy during the battle phase, it gets +1 power.",discard,on-deal-damage,power-gain,,,"discard,on-deal-damage,power-gain"
+150,Other,Build,Regular,Uncommon,"Once per turn, you may discard 1. This unit gets +2 power.",once-per-turn,discard,power-gain,,,"once-per-turn,discard,power-gain"
+151,Other,Stall,Regular,Rare,"Once per turn, another player may sacrifice a unit they control. If they do, this unit cannot battle and gets +1 power.",once-per-turn,sacrifice-unit,cannot-battle,power-gain,,"once-per-turn,sacrifice-unit,cannot-battle,power-gain"
+152,Other,Crush,Ritual,Common,"Ritual, discard 1. This unit has double-strike.",discard,double-strike,,,,"discard,double-strike"
+153,Other,Build,Ritual,Uncommon,"Ritual, discard 1. When this unit is damaged during the battle phase, it gets +1 power.",discard,on-receive-damage,power-gain,,,"discard,on-receive-damage,power-gain"
+154,Other,Build,Regular,Common,Reduce this unit's power by 2. This unit gets +4 power until end of turn.,sacrifice-power,power-gain,,,,"sacrifice-power,power-gain"
+155,Other,Build,Ritual,Uncommon,"Ritual, discard 1. When this unit enters the field, it gets +2 power.",discard,on-set-unit,power-gain,,,"discard,on-set-unit,power-gain"
+156,Double,Build,Regular,Rare,"Spend a double. Set a field token with ""At end of your turn, if you control no units with this type, deal 2 shield damage to yourself"". Set a 5 power unit with this type.",set-field-token,on-no-units,shield-loss,set-unit,,"set-field-token,on-no-units,shield-loss,set-unit"
+157,Other,Build,Ritual,Rare,"Ritual, discard 2. When this unit enters the field, you may set three targets among any units or equip tokens. Reduce units by 1 power and destroy equip tokens.",discard,on-set-unit,power-loss,destroy-equip-token,,"discard,on-set-unit,power-loss,destroy-equip-token"
+158,Double,Crush,Regular,Common,Spend a double. Destroy a target token.,destroy,,,,,destroy
+159,Single,Crush,Regular,Common,"Spend a single, discard 1. Destroy a target token.",discard,destroy,,,,"discard,destroy"
+160,Other,Build,Ritual,Uncommon,"Ritual, discard 1. When this unit deals damage during the battle phase, you may look a player's hand and choose a die. The player discards this die.",discard,on-deal-damage,view,,,"discard,on-deal-damage,view"
+161,Other,Build,Ritual,Uncommon,"Ritual, discard 1. When this unit enters the field, you may a target a unit. The unit has paralyzed until the start of your next turn.",discard,on-set-unit,paralyzed,,,"discard,on-set-unit,paralyzed"
+162,Double,Stall,Regular,Uncommon,"Spend a double. Set a field token with ""During the battle phase, you may discard X dice. Re-target the battles of X target units.""",set-field-token,discard,retarget,,,"set-field-token,discard,retarget"
+163,Triple,Stall,Regular,Uncommon,"Spend a triple. Set a field token with ""To declare a unit for battle, players must discard a die.""",set-field-token,discard,cannot-battle,,,"set-field-token,discard,cannot-battle"
+164,Triple,Crush,Regular,Common,"Spend a triple. Set a field token with ""Units without this type get -2 power during the battle phase.""",set-field-token,power-loss,,,,"set-field-token,power-loss"
+165,Triple,Stall,Regular,Common,"Spend a triple. Set a field token with ""Abilities that target units you don't control are negated.""",set-field-token,negate-ability,,,,"set-field-token,negate-ability"
+166,Other,Stall,Ritual,Uncommon,"Ritual, discard 2. When this unit enters the field, place a field token with ""During the battle phase you may re-target up to 4 damage among any battling units.""",discard,set-field-token,retarget,,,"discard,set-field-token,retarget"
+167,Other,Build,Ritual,Rare,"Ritual, discard 3. After this unit is summoned, set among targets three equip tokens with ""Stackable. You may sacrifice this as an energy token of any value when activating abilities of this unit.""",discard,set-equip-token,stackable,sacrifice-equip,,"discard,set-equip-token,stackable,sacrifice-equip"
+168,Double,Build,Regular,Common,Spend a double. You may summon an additional time this turn.,add-summon,,,,,add-summon
+169,Double,Build,Regular,Common,Spend a double. Set one 4 power typeless unit. Destroy set unit at end of turn.,set-unit,sacrifice-unit,,,,"set-unit,sacrifice-unit"
+170,Double,Crush,Regular,Common,Spend a double. This unit has double-strike until end of turn.,double-strike,,,,,double-strike
+171,Single,Stall,Regular,Common,"Instant, spend a single. This unit is removed from the field until end of turn.",instant,remove-unit,,,,"instant,remove-unit"
+172,Other,Crush,Ritual,Common,"Ritual, discard 1. This unit has unblockable.",discard,unblockable,,,,"discard,unblockable"
+173,Other,Build,Ritual,Rare,"Ritual, discard 2. When this unit is summoned, set among target units three equip tokens with ""At the end of controller's turn, reduce this token's unit by 1 power. The controller may sacrifice this token, then a target opponent gets +1 shield power.""",discard,set-equip-token,power-loss,sacrifice-equip,shield-gain,"discard,set-equip-token,power-loss,sacrifice-equip,shield-gain"
+174,Single,Build,Regular,Rare,"Spend a single. Set an equip token with ""At the end of controller's turn, reduce this token's unit by 1 power. The controller may sacrifice this token, then a target an opponent gets +1 shield power.""",set-equip-token,power-loss,sacrifice-equip,shield-gain,,"set-equip-token,power-loss,sacrifice-equip,shield-gain"
+175,Other,Build,Regular,Common,Spend 2 shield power. This unit gets +2 power.,sacrifice-shield,power-gain,,,,"sacrifice-shield,power-gain"
+176,Double,Crush,Regular,Uncommon,"Spend a double. Set on this unit an equip token with ""This unit gets +2 power and haste.""",set-equip-token,power-gain,haste,,,"set-equip-token,power-gain,haste"
+177,Single,Stall,Regular,Uncommon,"Spend a single. Set on this unit an equip token with ""Unit gets +2 power when defending.""",set-equip-token,power-gain,on-battle,,,"set-equip-token,power-gain,on-battle"
+178,Double,Crush,Regular,Common,Spend a double. Deal 4 direct damage to target.,direct-damage,,,,,direct-damage
+179,Other,Crush,Relic,Common,Relic summon. This unit has haste.,haste,,,,,haste
+180,Other,Crush,Regular,Common,Sacrifice a unit you control. Deal X direct damage to a target where X is the sacrifice's power.,sacrifice-unit,direct-damage,,,,"sacrifice-unit,direct-damage"
+181,Other,Crush,Regular,Common,"Banish X grave dice. For each 2 dice discarded this way, deal 2 direct damage among any target units.",sacrifice-grave,direct-damage,,,,"sacrifice-grave,direct-damage"
+182,Other,Crush,Ritual,Uncommon,"Ritual, discard hand. When an opponent controls no units on their side of the field, this unit deals double damage.",discard,on-no-units,double-damage,,,"discard,on-no-units,double-damage"
+183,Other,Crush,Regular,Common,"Spend X energy tokens. For each token spent, deal 2 direct damage among any target units..",direct-damage,,,,,direct-damage
+184,Other,Crush,Regular,Common,"Discard your hand. For every 2 dice discarded this way, deal 2 direct damage among any target units.",discard,direct-damage,,,,"discard,direct-damage"
+185,Double,Stall,Regular,Uncommon,"Spend a double. Set an field token with ""A player's shields cannot be targeted if the player controls a unit on their side of the field.""",set-field-token,cannot-be-targeted,on-no-units,,,"set-field-token,cannot-be-targeted,on-no-units"
+186,Double,Build,Regular,Uncommon,"Spend a double. Set a field token with ""If three units have been destroyed this turn, you may charge an additional time.""",set-field-token,on-unit-destroyed,add-charge,,,"set-field-token,on-unit-destroyed,add-charge"
+187,Double,Stall,Regular,Uncommon,"Spend a double. Set an field token with ""If a player controls units, any damage dealt to their shields is retargeted among their units by the controller.""",set-field-token,on-receive-damage,retarget,,,"set-field-token,on-receive-damage,retarget"
+188,Other,Build,Regular,Common,"Sacrifice X units, target a unit you control. Until end of turn, target unit gets +X power, where X is the combined power of the units sacrificed.",sacrifice-unit,power-gain,,,,"sacrifice-unit,power-gain"
+189,Triple,Build,Regular,Common,"Spend a triple. Set a field token with ""When a unit you control is destroyed, you may instant summon a unit.""",set-field-token,on-unit-destroyed,,add-summon,,"set-field-token,on-unit-destroyed,add-summon"
+190,Single,Stall,Regular,Uncommon,"Instant, spend a single. Retarget damage dealt to target unit to another target unit.",instant,retarget,direct-damage,,,"instant,retarget,direct-damage"
+191,Double,Stall,Regular,Common,"Spend a double. Target the unit with the highest power on the field. Reduce its power by 3. Target the unit with the weakest power and increase its power by X, where X is the power lost by the highest power unit.",power-loss,power-gain,,,,"power-loss,power-gain"
+192,Single,Crush,Regular,Common,"Spend a single. Set a 1 power typeless unit, which then battles a target unit.",set-unit,force-battle,,,,"set-unit,force-battle"
+193,Other,Build,Ritual,Rare,"Ritual, discard 1. When this unit is captured and its captor activates an ability, target 1 energy token and gain control of it. This unit is released from capture.",discard,on-capture,on-ability-start,control-change,capture-end,"discard,on-capture,on-ability-start,control-change,capture-end"
+194,Double,Build,Regular,Rare,"Spend a double. Set a field token with ""When you draw a die outside of the Draw Phase, draw +1 and discard 1.""",set-field-token,on-draw,draw,discard,,"set-field-token,on-draw,draw,discard"
+195,Other,Stall,Ritual,Uncommon,"Ritual, banish 3 grave dice. If this unit would be destroyed when it has 1 or more power, return it to the field with 1 power.",sacrifice-grave,on-unit-destroyed,set-unit,,,"sacrifice-grave,on-unit-destroyed,set-unit"
+196,Single,Crush,Regular,Uncommon,"Spend a single. Until end of turn, when this player discards a die, that player may deal 2 direct damage to a player's foremost shield.",on-discard,direct-damage,shield-loss,,,"on-discard,direct-damage,shield-loss"
+197,Triple,Crush,Regular,Rare,"Spend a triple. Set a field token with ""When this player discards a die, that player may deal 2 direct damage to a player's foremost shield.""",set-field-token,on-discard,direct-damage,shield-loss,,"set-field-token,on-discard,direct-damage,shield-loss"
+198,Double,Crush,Regular,Rare,"Spend a double. Set a field token with ""When any player discards a die, that player may deal 2 direct damage to a player's foremost shield.""",set-field-token,on-discard,direct-damage,shield-loss,,"set-field-token,on-discard,direct-damage,shield-loss"
+199,Other,Stall,Fusion,Common,"Fusion, two units of 2 power or less. This unit has indestructible.",sacrifice-unit,indestructible,,,,"sacrifice-unit,indestructible"
+200,Single,Build,Regular,Common,"Spend a single. Until end of turn, when a player deals damage to an opponent's shield, that player draws a die.",on-deal-damage,draw,,,,"on-deal-damage,draw"
+201,Double,Build,Regular,Uncommon,"Spend a double. Set a field token with ""When a player deals damage to an opponent's shield, that player draws a die.""",set-field-token,on-deal-damage,draw,,,"set-field-token,on-deal-damage,draw"
+202,Single,Build,Regular,Common,Spend a single. Discard your hand and draw 2.,discard,draw,,,,"discard,draw"
+203,Double,Build,Regular,Uncommon,"Spend a double, target a captive of a unit you control. Gain control of captive and end capture.",target-captive,control-change,capture-end,,,"target-captive,control-change,capture-end"
+204,Other,Build,Ritual,Uncommon,"Ritual, sacrifice a captive of a unit you control. This unit gets +2 for every captor you control.",sacrifice-unit,target-captive,power-gain,,,"sacrifice-unit,target-captive,power-gain"
+205,Other,Crush,Ritual,Rare,"Ritual, sacrifice a captive of a unit you control. When attacking this unit gets +3 for every captor you control.",sacrifice-unit,target-captive,on-battle,power-gain,,"sacrifice-unit,target-captive,on-battle,power-gain"
+206,Other,Crush,Ritual,Common,"Ritual, discard 1. When attacking this unit gets +1 power for each other unit you control.",on-battle,power-gain,,,,"on-battle,power-gain"
+207,Triple,Crush,Regular,Common,"Spend a triple, target 3 units. Destroy target units.",destroy-unit,,,,,destroy-unit
+208,Trigger,Crush,Regular,Common,"When this unit has 7 or more power, it has double-strike.",on-power-condition,double-strike,,,,"on-power-condition,double-strike"
+209,Other,Crush,Regular,Common,Destroy this unit. Destroy a target unit with power double or less than this unit.,sacrifice-unit,destroy-unit,,,,"sacrifice-unit,destroy-unit"
+210,Other,Crush,Regular,Common,Destroy this unit. Deal double this unit's power in direct damage to a target.,sacrifice-unit,direct-damage,,,,"sacrifice-unit,direct-damage"
+211,Triple,Build,Regular,Uncommon,"Spend a triple. Set a field token with ""When a unit you control is destroyed, draw a die.""",set-field-token,on-unit-destroyed,draw,,,"set-field-token,on-unit-destroyed,draw"
+212,Triple,Build,Regular,Uncommon,"Spend a triple. Set a field token with ""When a unit you control is destroyed, you may instant charge a die.""",set-field-token,on-unit-destroyed,add-charge,,,"set-field-token,on-unit-destroyed,add-charge"
+213,Triple,Build,Regular,Uncommon,"Spend a triple. Set a field token with ""When a unit you control is destroyed, you may instant summon a unit.""",set-field-token,on-unit-destroyed,add-summon,,,"set-field-token,on-unit-destroyed,add-summon"
+214,Single,Build,Regular,Common,"Spend a single. Until end of turn, this unit has double power.",on-power-gain,,,,,on-power-gain
+215,Other,Crush,Regular,Common,Reduce this unit's power by 2. Deal 2 direct damage to a target unit.,sacrifice-power,direct-damage,,,,"sacrifice-power,direct-damage"
+216,Double,Build,Regular,Rare,"Spend a double. Set an equip token with ""This unit cannot battle. Once per turn, you may reduce this unit's power by X and set an X power unit with this type.""",set-equip-token,cannot-battle,power-loss,set-unit,,"set-equip-token,cannot-battle,power-loss,set-unit"
+217,Other,Crush,Ritual,Uncommon,"Ritual. When this unit enters the field it gets +2 power. At the end of your battle phase if this unit did not battle, destroy this unit.",on-set-unit,power-gain,must-battle,,,"on-set-unit,power-gain,must-battle"
+218,Single,Crush,Regular,Common,"Spend a single. Set an equip token with ""This unit has withering.""",set-equip-token,withering,,,,"set-equip-token,withering"
+219,Other,Crush,Ritual,Common,"Ritual, banish 2 grave dice. This unit has withering.",sacrifice-grave,withering,,,,"sacrifice-grave,withering"
+220,Other,Build,Ritual,Common,"Ritual, spend 2 shield. When this unit enters the field, until end of turn you may charge an additional time.",sacrifice-shield,add-charge,,,,"sacrifice-shield,add-charge"
+221,Other,Build,Regular,Common,"Once per turn, spend 2 shield power. You may charge an additional time.",sacrifice-shield,add-charge,,,,"sacrifice-shield,add-charge"
+222,Other,Build,Regular,Common,Spend 3 shield. This unit gets +3 power.,sacrifice-shield,power-gain,,,,"sacrifice-shield,power-gain"
+223,Other,Build,Fusion,Uncommon,"Fusion summon, two units from 1 archetype. When this unit enters the field, draw 1.",sacrifice-unit,on-type-enter,draw,,,"sacrifice-unit,on-type-enter,draw"
+224,Other,Crush,Fusion,Uncommon,"Fusion summon, two units from 1 archetype. This unit inflicts withering in battle.",sacrifice-unit,on-battle,withering,,,"sacrifice-unit,on-battle,withering"
+225,Other,Crush,Fusion,Uncommon,"Fusion summon, three units from 1 archetype. When this unit battles a unit, it may inflict damage equal to its power to up to 2 additional units.",sacrifice-unit,on-battle,direct-damage,,,"sacrifice-unit,on-battle,direct-damage"
+226,Other,Build,Fusion,Rare,"Fusion summon, two units from 2 archetypes. When this unit enters the field, double its power. This unit loses 2 power at the end of its turn.",sacrifice-unit,on-type-enter,power-gain,power-loss,,"sacrifice-unit,on-type-enter,power-gain,power-loss"
+227,Other,Stall,Fusion,Rare,"Fusion summon, two units from 2 archetypes. When this unit enters the field, double its power. This unit cannot attack (can defend).",sacrifice-unit,on-type-enter,power-gain,cannot-attack,,"sacrifice-unit,on-type-enter,power-gain,cannot-attack"
+228,Other,Crush,Realm,Common,"Realm summon. If a unit did not battle during its turn, at the end of its turn destroy it.",set-field-token,destroy-unit,,,,"set-field-token,destroy-unit"
+229,Single,Stall,Regular,Common,"Spend a single, target a unit you control. Target unit cannot be destroyed by battle this turn.",cannot-be-destroyed,,,,,cannot-be-destroyed
+230,Other,Build,Realm,Common,"Realm summon. At the start of a player's turn, they must set a 1 power typeless unit on their field.",set-field-token,set-unit,,,,"set-field-token,set-unit"
+231,Other,Stall,Realm,Uncommon,Realm summon. Units below 3 power cannot battle.,set-field-token,on-power-condition,cannot-battle,,,"set-field-token,on-power-condition,cannot-battle"
+232,Other,Stall,Realm,Rare,"Realm summon. At the start of a player's turn, on each of their units set an equip token with ""When this unit battles, it loses X power where X is the number of equip tokens it has. Destroy all equip tokens on this unit.""",set-field-token,set-equip-token,on-battle,power-loss,destroy-equip-token,"set-field-token,set-equip-token,on-battle,power-loss,destroy-equip-token"
+233,Other,Crush,Relic,Uncommon,"Relic summon. When this unit is destroyed in battle, deal 3 damage to a target unit or shield.",set-equip-token,on-unit-destroyed,direct-damage,,,"set-equip-token,on-unit-destroyed,direct-damage"
+234,Other,Crush,Relic,Uncommon,"Relic summon. When this unit battles, it may inflict damage equal to its power to an additional unit.",set-equip-token,on-battle,direct-damage,,,"set-equip-token,on-battle,direct-damage"
+235,Other,Stall,Relic,Uncommon,"Relic summon. If this unit would be destroyed when it has 1 or more power, return it to the field with 1 power.",set-equip-token,on-unit-destroyed,set-unit,,,"set-equip-token,on-unit-destroyed,set-unit"
+236,Other,Build,Relic,Uncommon,"Relic summon. When this unit is destroyed in battle, deal 3 damage to a target unit or shield.",set-equip-token,on-unit-destroyed,direct-damage,,,"set-equip-token,on-unit-destroyed,direct-damage"
+237,Other,Build,Relic,Uncommon,"Relic summon. When this unit is destroyed, you may charge an additional time.",set-equip-token,on-unit-destroyed,add-charge,,,"set-equip-token,on-unit-destroyed,add-charge"
+238,Other,Crush,Relic,Uncommon,"Relic summon. This unit has piercing. If this unit did not battle this turn, at the end of its turn destroy it.",set-equip-token,piercing,destroy-unit,,,"set-equip-token,piercing,destroy-unit"
+239,Other,Build,Relic,Uncommon,Relic summon. This unit has +X power where X is half the number of dice in the controller's grave.,set-equip-token,power-gain,grave-count,,,"set-equip-token,power-gain,grave-count"
+240,Other,Build,Ritual,Uncommon,"Ritual summon, when five or more units battle this turn. You may Instant summon this.",on-battle,instant,add-summon,,,"on-battle,instant,add-summon"
+241,Other,Build,Regular,Common,Banish 4 dice from your grave. Set one 4 power typeless unit.,sacrifice-grave,set-unit,,,,"sacrifice-grave,set-unit"
+242,Double,Stall,Regular,Uncommon,Spend a double. Battles cannot be declared by any player until the start of your next turn.,cannot-battle,cannot-attack,cannot-defend,,,"cannot-battle,cannot-attack,cannot-defend"
+243,Single,Build,Regular,Common,"Spend a single. Set an equip token with ""This unit has Draining attacks,"" on a target unit.",set-equip-token,drain,,,,"set-equip-token,drain"
+244,Other,Build,Regular,Common,"Once per turn, reduce this unit's power by 2. You may charge an additional time.",sacrifice-power,add-charge,,,,"sacrifice-power,add-charge"
+245,Other,Stall,Regular,Common,"Once per turn, this unit may Instant Drain a unit you control for any amount of power.",instant,drain,,,,"instant,drain"
+246,Triple,Crush,Regular,Rare,"Spend a triple. Set an equip token with ""Once per turn, you may inflict 1 direct shield damage to your opponent for each unit and token on the field"" on a unit you control.",set-equip-token,direct-damage,unit-count,token-count,,"set-equip-token,direct-damage,unit-count,token-count"
+247,Triple,Crush,Regular,Rare,"Spend a triple. Set a field token with ""You may sacrifice this token to give target unit you control +2 power and Haste until end of turn. At the end of your turn if you control one of this token, create a copy of this token.""",set-field-token,sacrifice-field,power-gain,haste,,"set-field-token,sacrifice-field,power-gain,haste"
+248,Other,Build,Fusion,Rare,"Fusion, 2 units 2 archetypes. This unit has Draining Attacks. Once per turn, this unit may Instant Drain a unit you control for any amount of power.",sacrifice-unit,instant,drain,drain,,"sacrifice-unit,instant,drain,drain"
+249,Other,Build,Regular,Uncommon,"Once per turn, you may reduce this unit's power by 3 and Instant Summon a unit with one of its Fusion Material Archetypes.",sacrifice-power,instant,add-summon,,,"sacrifice-power,instant,add-summon"
+250,Other,Stall,Regular,Uncommon,"Once per turn, this unit may Instant Drain itself to a target shield, up to 6 power max.",shield-gain,instant,drain,,,"shield-gain,instant,drain"
+251,Other,Build,Fusion,Rare,"Fusion, 2 units 2 archetypes. Once per turn, you may reduce this unit's power by 3 and Instant Summon a unit with one of its Fusion Material Archetypes.",sacrifice-unit,sacrifice-power,instant,add-summon,,"sacrifice-unit,sacrifice-power,instant,add-summon"
+252,Other,Crush,Ritual,Common,"Ritual, discard 1. This unit has Withering attacks.",discard,withering,,,,"discard,withering"

@@ -6,7 +6,9 @@ The following are extra rules for expanding duel and narrative play.
 
 **Soul Cards:** Special units with extra abilities. A deck can have 1 per archetype. They can be summoned as a soul unit by spending a die value equal to their soul value (1-6) as part of their summon cost. A soul card has 3 extra abilities (4th, 5th, 6th), in addition to their base archetype. Only one unit per soul card can be active on the field at a time.
 
-**Rarity:** Abilities are rated Common, Uncommon, and Rare according to the effects that they have.
+**Rarity:** Abilities and Archetypes are rated ✦ Common, ★ Uncommon, and ✶ Rare. Abilities are rated according to the effects that they have, and Archetypes inherit the highest rarity from their abilities.
+
+- Soul Cards have a rarity of ⍟ Soul Card, and a rarity of 🌙 Exotic can be used for very rare abilities.
 
 **Tribes:** Archetypes have one of five tribes: Dark, Wild, Terra, Justice, Machine. Effects may target units and tokens with these tribes.
 

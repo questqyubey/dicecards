@@ -1,7 +1,7 @@
 # Dice Cards Quick Rules
 
-Inspired by the “Soul Master” stories.
-Written by Qyubey:
+Inspired by the “Soul Master” stories on Fiction.live.<br>
+Written by Qyubey:<br>
 https://twitter.com/QuestQyubey
 
 This game is designed to evoke the feeling of TCG games like “Magic The Gathering” and “YuGiOh!” using a dice-based system. Players take turns to draw & roll dice, summon units, and battle each other. The first player to be damaged directly, or to start their turn with no dice in stock, loses the game.
