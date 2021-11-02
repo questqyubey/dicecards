@@ -42,7 +42,11 @@ This game is designed to evoke the feeling of TCG games like “Magic The Gather
 - 'Low', energy token/s with 1, 2 or 3.
 - 'High' energy token/s with 4, 5, or 6.
 
-**Other Tokens:** Tokens are represented by dice. A token's archetype is indicated by its die colour and the die's value corresponds to the ability used to create them (1st, 2nd, 3rd). Equip tokens affect units they are equipped to, and are placed to the left and right of the unit (max 2 per unit). Field tokens affect the whole field, and are placed to the far left of all units. When a unit is destroyed, their equip tokens are destroyed too. An equip token shares the same controller as its attached unit. Otherwise, tokens are controlled by their original player (owner).
+**Other Tokens:** Tokens are represented by dice. A token's archetype is indicated by its die colour and the die's value corresponds to the ability used to create them (1st, 2nd, 3rd).
+
+- Equip tokens affect units they are equipped to, and are placed to the left and right of the unit (max 2 per unit). When a unit is destroyed, their equip tokens are destroyed as well. An equip token shares the same controller as its attached unit, or belongs to its original owner.
+
+- Field tokens affect the whole field, and are placed to the far left of all units. Field tokens are controlled by their original owner.
 
 ## Turn Structure
 
