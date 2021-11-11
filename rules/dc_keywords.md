@@ -16,7 +16,7 @@
 - **Draw:** Take dice from the stock, roll their values, and add them to the hand.
 - **Equip:** Place an equip token with a unit. The token's effects end if the unit is removed from the field or the equip token is removed from the unit. A player may equip each token they control without a unit up to once per turn.
 - **Evade:** The unit or token is removed from the field (not destroyed) and returns to the field under its owner's control at the end of the turn.
-- **Fading:** The unit reduces its power by 1 at the start of its controller's turn.
+- **Fading:** The unit reduces its power by 1 at the start of its controllers turn.
 - **Frozen:** The unit or token cannot change its power or archetype.
 - **Fusion (Summon):** Sacrifices must be paid to summon the unit, detailed after the keyword. Capitalized words in the cost refer to a specific archetype. Any units sacrificed add their power and equip tokens to the summoned unit.
 - **Haste:** The unit's attack is resolved first. If they destroy the target of battle, they are not attacked by the enemy. Multiple attacks are still resolved after the defender attacks.
@@ -38,7 +38,6 @@
 - **Sacrifice:** Destroy targeted unit as part of an ability cost. Attributes of the unit may be used for the ability effect (power, tokens, type).
 - **Scry X:** Pre-roll the next X dice to be drawn from the stock. The values should be kept secret.
 - **Set:** Set a die on the field as a unit with the power and archetype specified. If the archetype has Ritual abilities (see Ritual), pay the additional cost before setting or else ignore the set action. If an archetype is not specified, select one from your deck.
-- **Stackable:** The token's effects can be stacked. Equip tokens are limited to three in a single equip slot.
 - **Stealthy:** The unit can't be targeted for battle or with abilities from a unit with greater power than it.
 - **Summon:** Spend a die from your hand to perform a Set action, with power equal to half the value of the die spent and an archetype from your deck.
 - **Target:** The target of the ability. If no conditions are specified, target can be any valid option controlled by any player.

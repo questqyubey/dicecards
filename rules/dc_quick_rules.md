@@ -42,11 +42,11 @@ This game is designed to evoke the feeling of TCG games like “Magic The Gather
 - 'Low', energy token/s with 1, 2 or 3.
 - 'High', energy token/s with 4, 5, or 6.
 
-**Other Tokens:** Tokens are represented by dice. A token's archetype is indicated by its die colour and the die's value corresponds to the ability used to create them (1st, 2nd, 3rd).
+**Other Tokens:** Tokens are represented by dice. A token's archetype is indicated by its die colour and the die's value corresponds to the ability used to create them (1st, 2nd, 3rd). Stacking tokens sums the effects, but they only trigger once and don't add more targets (ie: two +1s become +2, on-battle only triggers once).
 
-- Equip tokens affect units they are equipped to, and are placed to the left and right of the unit (max 2 per unit). When a unit is destroyed, their equip tokens are destroyed as well. An equip token shares the same controller as its attached unit, or belongs to its original owner.
+- Equip tokens affect units they are equipped to, and are placed to the left and right of the unit (max 2 kinds per unit, stackable to 3). When a unit is destroyed, their equip tokens are destroyed as well. An equip token shares the same controller as its attached unit, or belongs to its original owner.
 
-- Field tokens affect the whole field, and are placed to the far left of all units. Field tokens are controlled by their original owner.
+- Field tokens affect the whole field, and are placed to the far left of all units (unlimited kinds, stackable to 3). Field tokens are controlled by their original owner.
 
 ## Turn Structure
 
