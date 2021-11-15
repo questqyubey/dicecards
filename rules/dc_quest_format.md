@@ -24,7 +24,7 @@ A booster costs $5 per ability, and each ability rolls a random rarity, then a r
 - If using Soul Cards, each ability in the booster gives a 5% chance to instead be a Soul Card (max 15%). The Soul Card gains all the abilities that would be in the booster, but cannot be merged with an Archetype. Their individual abilities can be Extracted out to a new Archetype that shares their Tribe.
 - Other duelists will have certain sets associated with them, and winning against a duelist gives you a booster from one of their sets. The amount of abilities in the booster depends on the amount of abilities they used: up to 3 gives 1 Ability, up to 6 gives 2 Abilities, and up to 9 includes 3 Abilities. Soul Card abilities are included in this count.
 
-**Scion Powers:** Players can choose to play as normal or to be one of the five Scion types from Soul Master. Their powers cannot be used inside of a duel and instead focus on narrative play and deckbuilding. Their powers take Duel Energy to use.dfd
+**Scion Powers:** Players can choose to play as normal or to be one of the five Scion types from Soul Master. Their powers cannot be used inside of a duel and instead focus on narrative play and deckbuilding. Their powers take Duel Energy to use.
 
 **Alchemy:** Masters of energy.
 
