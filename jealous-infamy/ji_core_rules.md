@@ -46,7 +46,7 @@ In place of cards, all elements of the game are represented by six-sided _Dice_ 
 
 **Tokens:** Any non-unit and non-shield piece on the board, including Energy. A token's archetype is indicated by its die colour and the die's value corresponds to the tactic used to create them (1st, 2nd, 3rd). Stacking tokens sums their effects, but they only trigger once and don't add more targets (ie: two +1s become +2, on-battle only triggers once).
 
-**Attachments:** Special tokens which affect units they are equipped to. They are placed to the left and right of their attached unit. A single unit can have up to two unique kinds of attachments, and they can stack their effects up to three tokens per kind. When a unit is destroyed, their attachments are destroyed as well. An attachment shares the same controller as its attached unit, or belongs to its original owner.
+**Attachments:** Special tokens which affect units they are attached to. They are placed to the left and right of their attached unit. A single unit can have up to two unique kinds of attachments, and they can stack their effects up to three tokens per kind. When a unit is destroyed, their attachments are destroyed as well. An attachment shares the same controller as its attached unit, or belongs to its original owner.
 
 **Features:** Special tokens affect the entire field. They are placed to the far left of all units on their controller's side. There is no limit to the kinds of features that can exist on a field, but they can only stack their effects up to three tokens per kind. Field tokens are controlled by their original owner.
 
