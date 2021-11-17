@@ -52,7 +52,7 @@
 
 - **Piercing:** If damage is dealt in excess of a unit's power, the remainder is dealt to the controller's shield dice. Damage continues to pierce each shield die and then the controller themselves.
 
-- **Realm (Summon):** Instead of setting a unit, set a Realm feature with Sheltered. Anyone who controls the Realm can activate tactics from the Realm's archetype. Each tactic with a Realm keyword requires its own Realm feature to activate.
+- **Realm (Summon):** Instead of setting a unit, set a Realm feature with Shelter. Anyone who controls the Realm can activate tactics from the Realm's archetype. Each tactic with a Realm keyword requires its own Realm feature to activate.
 
 - **Reinforce:** When the unit deals damage, add +1 shield power to the controller's outer-most shield die. Effect is ignored if the die is already at 6.
 
@@ -70,7 +70,7 @@
 
 - **Set:** Set a die on the field as a unit or token with the power and archetype specified. If the archetype has Ritual tactics (see Ritual), pay the additional cost before setting or else ignore the set action. If an archetype is not specified, select one from your deck.
 
-- **Sheltered:** The unit cannot be targeted by enemy tactics. It can still be affected by tactics that do not target specific units, such as ones that target a field, archetype, or tribe.
+- **Shelter:** The unit cannot be targeted by enemy tactics. It can still be affected by tactics that do not target specific units, such as ones that target a field, archetype, or tribe.
 
 - **Stealthy:** The unit cannot be targeted by a unit with a greater power than it. It can still be affected by tactics that do not target specific units, such as ones that target a field, archetype, or tribe.
 

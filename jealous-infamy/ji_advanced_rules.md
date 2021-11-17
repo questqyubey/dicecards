@@ -25,7 +25,7 @@ These keywords modify the units produced by an archetype. Archetypes can have mu
 - If soul unit/s are paid as part of the cost, the fusion unit inherits a soul card from one of the sacrificed units. If the Fusion tactic itself is part of a soul card (not base archetype), the fusion unit always uses that soul card.
 
 ⛰️
-**Realm:** An tactic containing the Realm keyword. They allow the use of powerful, field-wide tactics. Instead of setting a unit, set a feature with Sheltered and value set to the Realm tactic. This token can activate regular tactics as per a unit. Realm tactics can only be activated by a Realm feature set to their value. They are placed in their owner's feature zone.
+**Realm:** An tactic containing the Realm keyword. They allow the use of powerful, field-wide tactics. Instead of setting a unit, set a feature with Shelter and value set to the Realm tactic. This token can activate regular tactics as per a unit. Realm tactics can only be activated by a Realm feature set to their value. They are placed in their owner's feature zone.
 
 💍
 **Relic:** An tactic containing the Relic keyword. They allow the use of powerful unit-specific effects. Instead of setting a unit, set an attachment with Persistent and value set to the Relic tactic. This token can activate regular tactics as per a unit. Relic tactics can only be activated by a Relic attachment with their value. They can re-attach themselves once per turn even if they were already attached to a unit.
