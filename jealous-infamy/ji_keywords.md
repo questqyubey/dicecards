@@ -28,7 +28,7 @@
 
 - **Draw:** Take dice from the stock, roll their values, and add them to the hand.
 
-- **Evade:** The unit or token is removed from the field (not destroyed) and returns to the field under its owner's control at the end of the turn. The unit cannot battle, activate, or be targeted while it is removed.
+- **Evade:** The unit or token is removed from the field (not destroyed) and returns to the field under its owner's control at the end of the turn. Any damage or effects on the unit are removed. The unit cannot battle, activate, or be targeted while it is removed. The unit ignores and does not trigger effects while removed.
 
 - **Fading:** The unit reduces its power by 1 at the start of its controllers turn.
 
