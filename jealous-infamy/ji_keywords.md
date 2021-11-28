@@ -24,7 +24,7 @@
 
 - **Double-Strike:** After the unit attacks in battle, it may attack and deal combat damage to that target again. The target unit does not counter unless they also have multiple attacks.
 
-- **Drain:** Reduce a target unit's power by X and add +X power to this or another unit. Draining attacks use half the attacking unit's power as X and do not deal damage.
+- **Drain:** Reduce a target unit's power by X and give that power to another unit. Does not count as damaging the unit.
 
 - **Draw:** Take dice from the stock, roll their values, and add them to the hand.
 
