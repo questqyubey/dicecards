@@ -30,7 +30,7 @@
 
 - **Evade:** The unit or token is removed from the field (not destroyed) and returns to the field under its owner's control at the end of the turn. Any damage or effects on the unit are removed. The unit cannot battle, activate, or be targeted while it is removed. The unit ignores and does not trigger effects while removed.
 
-- **Fading:** The unit reduces its power by 1 at the start of its controllers turn.
+- **Fading:** The unit decreases its power by 1 at the start of its controllers turn.
 
 - **Frozen:** The unit or token cannot change its power or archetype.
 
@@ -38,7 +38,7 @@
 
 - **Haste:** The unit's attack is resolved first. If they destroy the target of battle, they are not damaged by the enemy. Multiple attacks are still resolved after the defender attacks.
 
-- **Indestructible:** The unit or token cannot be targeted by effects that would destroy or banish it, including field-wide effects. If the unit or token would be reduced to 0 power, it is instead reduced to 1 power.
+- **Invincible:** The unit or token reduces all damage received to 0. Damage is still considered recieved. If the unit or token would be reduced to 0 power, it is instead reduced to 1 power.
 
 - **Instant:** The tactic can be activated during any player's battle phase, before or after declaring units.
 
@@ -62,7 +62,7 @@
 
 - **Retarget:** New target/s are selected for a target tactic. The new target/s must be valid under the original tactic's rules.
 
-- **Ritual (Summon):** Additional costs must be paid to summon a unit for the archetype, detailed after the keyword. Capitalized words in the cost refer to a specific archetype.
+- **Ritual (Summon):** Additional costs must be paid to summon a unit for the archetype, detailed after the keyword. Capitalized words in the cost refer to a specific archetype.bn
 
 - **Sacrifice:** Destroy a unit or token as part of the cost for a tactic, or reduce a unit's power by a specified amount.
 
@@ -80,6 +80,6 @@
 
 - **Unblockable:** The unit can't be targeted for battle by defenders. It can still be declared as a defender and be forced to enter battle with tactics.
 
-- **Unstoppable** After this unit takes damage, it gets +1 power. After this unit is destroyed, it returns to the field with half power under its owners control.
+- **Unstoppable** After this unit takes damage, it gets +1 power. After this unit is destroyed, it returns to the field at the start of its owner's next turn under its owners control with half its power at the time of destruction.
 
-- **Withering:** Any damage the unit recieves instead reduces its power by an equal amount. The unit is not considered to be damaged for trigger purposes.
+- **Withering:** Damage from units and effects with withering instead reduce a target unit's power by an equal amount. This does count as damaging the unit.
