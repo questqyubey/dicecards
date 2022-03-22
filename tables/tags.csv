@@ -1,0 +1,122 @@
+name,description,rarityCost
+add-charge,Player can charge an additional time,2
+add-cost,Additional costs added to activate.,2
+add-summon,Player can summon an additional time,2
+banish,"Remove a unit, token, or dice from play. Does not count as destroyed.",1
+cannot-attack,Unit cannot attack but can defend.,1
+cannot-battle,Unit cannot attack or defend.,1
+cannot-cast,Unit or player cannot activate tactics.,2
+cannot-charge,Player cannot charge energy tokens to the field.,2
+cannot-defend,Unit cannot defend but can attack.,1
+cannot-summon,Player cannot set or summon units to the field,2
+capture,Unit is captured by another unit.,1
+capture-end,Ability causes a captive to be released,1
+charge,Ability charges an energy token.,1
+cleave,Ability grants cleave,2
+control-change,Change the control of a unit or token,2
+copy,Ability copies another ability's effect.,3
+cost-double,Ability costs a set of 2 energy.,1
+cost-flush,Ability costs a set of 6 energy.,3
+cost-high,Ability costs high energy.,0
+cost-low,Ability costs low energy.,0
+cost-single,Ability costs any single energy.,0
+cost-triple,Ability costs a set of 3 energy,2
+cost-ritual,Ability has ritual costs.,1
+cost-relic,Ability has relic summon.,2
+cost-realm,Ability has realm summon.,2
+cost-fusion,Ability has fusion summon (2 units min).,2
+count-grave,Ability is affected by the number of dice in the grave.,1
+count-power,Ability is affected by the power of a unit.,1
+count-shield,Ability is affected by the power of all shields.,1
+count-stock,Ability is affected by the number of dice in the stock.,1
+count-token,Ability is affected by the number of tokens on the field,1
+count-tribe,Ability is affected by the number of units and/or tokens with this tribe on the field.,1
+count-type,Ability is affected by the number of units and/or tokens with this type on the field.,1
+count-unit,Ability is affected by the number of units on the field,1
+damage,Inflict direct damage to target.,2
+damage-gain,Damage of an attack or effect is increased.,1
+damage-loss,Damage of an attack or effect is decreased.,1
+damage-self,The casting unit takes damage.,1
+deadly,Ability grants deadly.,2
+defender,Ability grants defender.,2
+destroy-equip,Target equip token is destroyed.,1
+destroy-field,Target field token is destroyed.,1
+destroy-token,Target token is destroyed.,1
+destroy-unit,Target unit is destroyed.,2
+discard,Discard dice from the hand,2
+double-strike,Ability grants double-strike.,2
+drain,Ability grants drain,2
+draw,Cause additional dice to be drawn,2
+end-phase,Ability triggers during the end phase.,2
+evade,Unit or token is removed from the field and returns at end of turn under owner's control.,3
+fading,Ability grants fading.,2
+force-battle,Ability causes a battle to occur between targets,2
+frozen,Ability grants frozen,2
+haste,Ability grants haste,2
+shelter,Ability grants shelter,3
+invincible,Ability grants invincible,3
+instant,Ability may be cast during any battle phase,1
+must-battle,Player must battle units or trigger effect.,2
+must-charge,Player must charge or trigger effect.,2
+must-destroy,Player must destroy a unit or trigger effect.,2
+must-discard,Player must discard dice or trigger effect.,2
+must-summon,Player must summon or trigger effect.,2
+negate-ability,Ability activation is negated and does not resolve,2
+negate-battle,Battle is negated and does not resolve,2
+negate-damage,Damage is negated and does not resolve,2
+negate-summon,Summon or set unit is negated and does not resolve,2
+negate-token,Charge or set token is negated and does not resolve,1
+on-ability-end,Trigger when an ability is resolved,1
+on-ability-start,Trigger when an ability is activated,1
+on-battle,Trigger when a battle occurs,1
+on-capture,Trigger when a unit is captured,1
+on-charge,Trigger when an energy token is charged.,1
+on-damage,Trigger when damage is inflicted,1
+on-damage-self,Trigger when damage is recieved,1
+on-destroy,Trigger when a unit or token is destroyed,1
+on-discard,Trigger when dice are discarded,1
+on-draw,Trigger when dice are drawn,1
+on-no-units,Trigger when player has no units on the field,1
+on-power-condition,"Trigger when power is below, above, or at a value",1
+on-power-gain,Trigger when unit gains power,1
+on-power-loss,Trigger when unit loses,1
+on-shield-gain,Trigger when a shield die gains power,1
+on-shield-loss,Trigger when a shield die loses power,1
+on-soul-card,Trigger related to a soul card's unit or token.,1
+on-summon,Trigger when a unit is set or summoned,1
+on-targeted,Trigger when targeted for battle or by ability,1
+on-tribe,Trigger when a unit of X tribe enters.,1
+on-type,Trigger when a unit of X type enters,1
+once-per-turn,Ability is limited to one activation per turn,0
+paralyzed,Ability grants paralyzed,2
+persistent,Ability grants persistent,2
+piercing,Ability grants piercing,3
+power-gain,Unit gains power,1
+power-limit,Ability only affects a certain power of units.,0
+power-loss,Unit loses power,1
+reinforce,Ability grants reinforce,2
+reroll,Re-roll dice in the hand,2
+retarget,Battle or ability target is changed to another target,3
+sacrifice-discard,Hand die is discarded as part of cost.,0
+sacrifice-equip,Equip token is destroyed as part of cost,0
+sacrifice-field,Field token is destroyed as part of cost,0
+sacrifice-grave,Grave dice are banished as part of the cost,1
+sacrifice-power,Unit power is reduced as part of cost.,1
+sacrifice-self,Ability caster is destroyed as part of cost.,1
+sacrifice-shield,Shield power is reduced as part of cost.,1
+sacrifice-token,Token is destroyed as part of cost,1
+sacrifice-unit,Unit is destroyed as part of cost,1
+scry,Pre-roll dice from the stock to be drawn,2
+set-energy,Set an energy token on the field,1
+set-equip,Set an equip token on the field,0
+set-field,Set a field token on the field,1
+set-power,Unit sets its power to X value,1
+set-unit,Set a unit on the field,1
+shield-gain,A shield die gains power,1
+stealthy,Ability grants stealthy,2
+type-change,Change the archetype of a unit or token,1
+unblockable,Ability grants unblockable,2
+unstoppable,Ability grants unstoppable.,3
+until-end-of-turn,Ability lasts until end of turn.,0
+view,Look at a player's hand,1
+withering,Ability grants withering,2

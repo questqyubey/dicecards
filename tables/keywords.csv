@@ -1,0 +1,44 @@
+name,description
+banish,"Dice, unit, or token is removed from play."
+capture,Unit is captured by another unit.
+charge,Set a die with a value as an energy token.
+cleave,"After this unit destroys in battle, it can force battle with another target."
+controller,Player that currenly controls the unit or token.
+copy,Ability copies another ability's effect
+deadly,Any battle damage dealt destroys the target
+defender,Unit cannot attack. Any damage recieved is halved.
+destroy,Unit or token is removed from the field and dice are discarded.
+discard,Dice are moved to the grave. Usually refers to hand dice.
+double-strike,Unit deals a second attack in battle. Isnt countered.
+drain,Reduce one unit's power and increase another's.
+draw,"Dice are taken from stock, rolled, and added to hand."
+attach,Attach a token to a unit.
+evade,Unit or token is removed from the field and returns at end of turn under owner's control.
+fading,Unit reduces by 1 power at the start of controller's turn.
+frozen,"Unit or token power, type, tribe cannot be changed."
+fusion,"Archetype is summoned using sacrifices, and gets their sum power."
+haste,Unit's attack is resolved first. Multiple attacks still sequential.
+instant,Ability can be activated during any battle phase.
+invincible,"Unit or token cannot be targeted for removal. If reduced to 0, gets set to 1 power."
+negate,Ability or battle is not resolved. Triggers still occur.
+owner,Creator of the unit or token.
+paralyzed,Unit or token cannot battle or activate abilities.
+persistent,Token is not destroyed when its unit is.
+piercing,Excess damage is inflicted to shields or the controller.
+realm,Archetype is summoned as a feature with shelter.
+reinforce,"Any battle damage inflicted recovers 1 shield power, to max 6."
+relic,Archetype is summoned as an attachment with persistent.
+reroll,Dice in the hand are rerolled to new values.
+retarget,Target of battle or ability is changed to another valid target
+return,Unit or token is removed from the field and returned to the hand.
+ritual,Must pay this when summoning.
+sacrifice,Unit or token is destroyed or reduced in power to pay for an ability.
+scry,Pre-roll dice values to be drawn from the stock. Keep values secret.
+set,Place dice on the field as units or tokens.
+shelter,Unit or token cannot be targeted by enemy abilities.
+stealthy,Unit cannot be targeted by a unit with greater power.
+summon,Pay the cost of a unit or token and set it on the field.
+target,"Unit, token, shield, or controller that is target of battle or ability."
+unblockable,Unit cannot be blocked when attacking.
+unstoppable,"Unit gets +1 after being damaged. After unit destroyed, returns at half power."
+withering,Damage inflicted causes power to reduce.
