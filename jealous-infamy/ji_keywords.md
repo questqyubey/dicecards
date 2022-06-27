@@ -12,7 +12,7 @@
 
 - **Controller:** The player currently controlling the unit or token.
 
-- **Copy:** The unit may pay for and activate a tactic they don't have.
+- **Copy:** A unit replaces its power and archetype with that of the target unit. All damage is removed from the unit. Attachments and other tokens remain.
 
 - **Deadly:** After the unit deals damage in battle, the target unit is destroyed.
 
