@@ -8,7 +8,7 @@
 
 - **Charge:** Set an energy token on the field with a value equal to the die spent.
 
-- **Cleave:** If the unit destroys a unit in battle, it may target another unit and battle with it. Damage is cumulative between battles.
+- **Cleave:** If the unit destroys a unit in battle, it may target another unit and battle with it. Target unit counter-attacks as normal. May trigger any amount of times during a turn.
 
 - **Controller:** The player currently controlling the unit or token.
 
@@ -22,15 +22,19 @@
 
 - **Discard:** Move dice to the grave.
 
-- **Double-Strike:** After the unit attacks in battle, it may attack and deal combat damage to that target again. The target unit does not counter unless they also have multiple attacks.
+- **Double-Strike:** After the unit attacks in battle, it may attack and deal combat damage to that target again. The target unit does not counter-attack unless they also have multiple attacks.
 
-- **Drain:** Reduce a target unit's power by X and give that power to another unit. Does not count as damaging the unit.
+- **Drain:** Reduce a target unit's power by an amount and give that power to another unit. Does not count as damaging the unit.
 
 - **Draw:** Take dice from the stock, roll their values, and add them to the hand.
+
+- **Egg**: Set an attachment token. During your turn, you may use a Summon action to instead sacrifice any amount of Egg tokens you control and summon that many 1-power units. Units have the same Tribe as the caster of this effect.
 
 - **Evade:** The unit or token is removed from the field (not destroyed) and returns to the field under its owner's control at the end of the turn. Any damage or effects on the unit are removed. The unit cannot battle, activate, or be targeted while it is removed. The unit ignores and does not trigger effects while removed.
 
 - **Fading:** The unit decreases its power by 1 at the start of its controllers turn.
+
+- **Feature:** A field token. May be stacked infinitely. Effects apply to both fields unless specified to the owner's field.
 
 - **Frozen:** The unit or token cannot change its power or archetype.
 
@@ -62,7 +66,7 @@
 
 - **Retarget:** New target/s are selected for a target tactic. The new target/s must be valid under the original tactic's rules.
 
-- **Ritual (Summon):** Additional costs must be paid to summon a unit for the archetype, detailed after the keyword. Capitalized words in the cost refer to a specific archetype.bn
+- **Ritual (Summon):** Additional costs must be paid to summon a unit for the archetype, detailed after the keyword. Capitalized words in the cost refer to a specific archetype.
 
 - **Sacrifice:** Destroy a unit or token as part of the cost for a tactic, or reduce a unit's power by a specified amount.
 
